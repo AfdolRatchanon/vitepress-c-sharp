@@ -1,0 +1,13 @@
+# Dependencies
+node_modules/
+
+# VitePress
+docs/.vitepress/cache/
+docs/.vitepress/dist/
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Project Specific
+scaffold.ps1
