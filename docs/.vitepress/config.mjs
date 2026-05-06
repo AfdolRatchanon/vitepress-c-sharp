@@ -150,12 +150,13 @@ export default defineConfig({
         collapsed: true,
         items: [
           { text: '📋 ภาพรวมบท',                         link: '/chapter10/' },
-          { text: '01 — Inheritance',                     link: '/chapter10/01-inheritance' },
-          { text: '02 — virtual & override',              link: '/chapter10/02-virtual-and-override' },
-          { text: '03 — Polymorphism',                    link: '/chapter10/03-polymorphism' },
-          { text: '04 — Abstract Classes',                link: '/chapter10/04-abstract-classes' },
-          { text: '05 — Interfaces',                      link: '/chapter10/05-interfaces' },
-          { text: '🧪 Lab: Shape Calculator',             link: '/chapter10/99-lab-shape-calculator' },
+          { text: '01 — Inheritance Basics',              link: '/chapter10/01-inheritance-basics' },
+          { text: '02 — Protected Modifier',              link: '/chapter10/02-protected-modifier' },
+          { text: '03 — The base Keyword',                link: '/chapter10/03-base-keyword' },
+          { text: '04 — Polymorphism & Virtual',          link: '/chapter10/04-polymorphism-and-virtual-methods' },
+          { text: '05 — Abstract Classes',                link: '/chapter10/05-abstract-classes' },
+          { text: '06 — Interfaces',                      link: '/chapter10/06-interfaces' },
+          { text: '🧪 Lab: Payroll System',               link: '/chapter10/99-lab-payroll-system' },
         ]
       },
       {
@@ -178,9 +179,12 @@ export default defineConfig({
           { text: '01 — What is LINQ?',                   link: '/chapter12/01-what-is-linq' },
           { text: '02 — Filtering with Where',            link: '/chapter12/02-filtering-with-where' },
           { text: '03 — Projection with Select',          link: '/chapter12/03-projection-with-select' },
-          { text: '04 — Ordering & Grouping',             link: '/chapter12/04-ordering-and-grouping' },
-          { text: '05 — Aggregation',                     link: '/chapter12/05-aggregation' },
-          { text: '🧪 Lab: Data Query Engine',            link: '/chapter12/99-lab-data-query-engine' },
+          { text: '04 — Sorting (OrderBy, ThenBy)',       link: '/chapter12/04-sorting' },
+          { text: '05 — Aggregation (Sum, Max, Min)',     link: '/chapter12/05-aggregation' },
+          { text: '06 — Any & All Logic',                 link: '/chapter12/06-any-and-all' },
+          { text: '07 — First, Last, Single',             link: '/chapter12/07-first-last-single' },
+          { text: '08 — Deferred Execution',              link: '/chapter12/08-deferred-execution' },
+          { text: '🧪 Lab: LINQ RPG Inventory',           link: '/chapter12/99-lab-linq-rpg-inventory' },
         ]
       },
       {

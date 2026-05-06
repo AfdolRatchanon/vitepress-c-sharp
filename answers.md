@@ -12,12 +12,13 @@
 - [99-lab-first-program-answers](./docs/chapter1/answers/99-lab-first-program-answers.md)
 
 ## CHAPTER10
-- [01-inheritance-answers](./docs/chapter10/answers/01-inheritance-answers.md)
-- [02-virtual-and-override-answers](./docs/chapter10/answers/02-virtual-and-override-answers.md)
-- [03-polymorphism-answers](./docs/chapter10/answers/03-polymorphism-answers.md)
-- [04-abstract-classes-answers](./docs/chapter10/answers/04-abstract-classes-answers.md)
-- [05-interfaces-answers](./docs/chapter10/answers/05-interfaces-answers.md)
-- [99-lab-shape-calculator-answers](./docs/chapter10/answers/99-lab-shape-calculator-answers.md)
+- [01-inheritance-basics-answers](./docs/chapter10/answers/01-inheritance-basics-answers.md)
+- [02-protected-modifier-answers](./docs/chapter10/answers/02-protected-modifier-answers.md)
+- [03-base-keyword-answers](./docs/chapter10/answers/03-base-keyword-answers.md)
+- [04-polymorphism-and-virtual-methods-answers](./docs/chapter10/answers/04-polymorphism-and-virtual-methods-answers.md)
+- [05-abstract-classes-answers](./docs/chapter10/answers/05-abstract-classes-answers.md)
+- [06-interfaces-answers](./docs/chapter10/answers/06-interfaces-answers.md)
+- [99-lab-payroll-system-answers](./docs/chapter10/answers/99-lab-payroll-system-answers.md)
 
 ## CHAPTER11
 - [01-delegates-basics-answers](./docs/chapter11/answers/01-delegates-basics-answers.md)
@@ -30,9 +31,12 @@
 - [01-what-is-linq-answers](./docs/chapter12/answers/01-what-is-linq-answers.md)
 - [02-filtering-with-where-answers](./docs/chapter12/answers/02-filtering-with-where-answers.md)
 - [03-projection-with-select-answers](./docs/chapter12/answers/03-projection-with-select-answers.md)
-- [04-ordering-and-grouping-answers](./docs/chapter12/answers/04-ordering-and-grouping-answers.md)
+- [04-sorting-answers](./docs/chapter12/answers/04-sorting-answers.md)
 - [05-aggregation-answers](./docs/chapter12/answers/05-aggregation-answers.md)
-- [99-lab-data-query-engine-answers](./docs/chapter12/answers/99-lab-data-query-engine-answers.md)
+- [06-any-and-all-answers](./docs/chapter12/answers/06-any-and-all-answers.md)
+- [07-first-last-single-answers](./docs/chapter12/answers/07-first-last-single-answers.md)
+- [08-deferred-execution-answers](./docs/chapter12/answers/08-deferred-execution-answers.md)
+- [99-lab-linq-rpg-inventory-answers](./docs/chapter12/answers/99-lab-linq-rpg-inventory-answers.md)
 
 ## CHAPTER13
 - [01-try-catch-finally-answers](./docs/chapter13/answers/01-try-catch-finally-answers.md)
