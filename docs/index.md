@@ -2,22 +2,22 @@
 layout: home
 
 hero:
-  name: "C# Documentation"
+  name: "C# Zero to Hero"
   text: "คู่มือการเขียนโปรแกรม C#"
-  tagline: เรียนรู้ C# อย่างเป็นขั้นตอน
+  tagline: "เรียนรู้ตั้งแต่พื้นฐาน Console สู่การสร้างแอปพลิเคชัน Windows Forms เกรด Production"
   actions:
     - theme: brand
-      text: เริ่มต้นเรียนรู้
-      link: /guide/
-    - theme: alt
-      text: ดูบน GitHub
-      link: https://github.com/
+      text: "🚀 บทเรียน C# Console"
+      link: /chapter1/
+    - theme: brand
+      text: "🖥️ บทเรียน C# WinForms"
+      link: /winapp/chapter1/
 
 features:
-  - title: เรียนรู้พื้นฐาน
-    details: เข้าใจโครงสร้างและพื้นฐานของภาษา C#
-  - title: การเขียนโปรแกรมเชิงวัตถุ (OOP)
-    details: ประยุกต์ใช้ Class, Object, Inheritance และ Polymorphism
-  - title: สร้างแอปพลิเคชันจริง
-    details: นำความรู้ไปต่อยอดสร้างแอปพลิเคชันรูปแบบต่างๆ
+  - title: "📝 พื้นฐานแน่น (Console)"
+    details: เข้าใจโครงสร้างของภาษา, ตัวแปร, Loop, Method และหลักการเขียนโปรแกรมเชิงวัตถุ (OOP)
+  - title: "🖼️ สร้าง UI สวยงาม (WinForms)"
+    details: เรียนรู้การสร้างหน้าต่างแอปพลิเคชัน, การจัดวาง Control, Event-driven, และการทำ Modern UI
+  - title: "💾 ฐานข้อมูลและรายงาน (Advanced)"
+    details: เชื่อมต่อ SQL Server ด้วย ADO.NET, ระบบ Login, สร้างไฟล์ PDF, และนำออกข้อมูลสู่ Excel
 ---
