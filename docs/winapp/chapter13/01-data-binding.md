@@ -126,7 +126,7 @@ namespace DataBindingDemo
 :::
 
 ::: details ❓ คำถามทบทวน 2:
-**คำถาม:** ข้อเสียของการใช้ DataTable Binding เทียบกับการทำ Object Mapping (List<T>) คืออะไร?
+**คำถาม:** ข้อเสียของการใช้ DataTable Binding เทียบกับการทำ Object Mapping (`List<T>`) คืออะไร?
 
 **แนวคำตอบ:** `DataTable` เป็น Weakly Typed (ไม่รู้ว่าแต่ละคอลัมน์เป็นประเภทข้อมูลอะไรล่วงหน้า) การเข้าถึงค่าต้องทำผ่าน string index เช่น `row["Salary"]` ทำให้มีโอกาสสะกดชื่อผิดตอนรันไทม์ ขณะที่ Object Mapping จะมี Compile-time checking ชัดเจน เช่น `employee.Salary`
 :::
